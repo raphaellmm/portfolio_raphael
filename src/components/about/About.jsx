@@ -17,7 +17,7 @@ const About = () => {
                 <Info />
 
                 <p className="about__description">I have worked on various projects from websites to flyers. 
-                My mission is always to make the customer as satisfied as possible.</p>
+                My mission is to always make the customer 101% satisfied.</p>
 
                 <a download="" href={CV} className="button button--flex">Download CV
                 <svg
