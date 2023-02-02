@@ -1,7 +1,7 @@
 import Efluencefigma from "../../assets/efluence_figma.png"
 import Indebouw from "../../assets/indebouw.png"
 import Xinstudio_logo from "../../assets/xinstudio_logo.png"
-import Xinstudio from "../../assets/xinstudio_site.png"
+import Efluence from "../../assets/efluence_site.jpg"
 import Nightscene from "../../assets/nightscene.png"
 
 export const projectsData = [
@@ -29,9 +29,9 @@ export const projectsData = [
     {
       id: 4,
       image: Xinstudio,
-      title: "XinStudio site",
+      title: "Efluence site (developing phase",
       category: "web",
-      link: "https://xinstudio.nl/",
+      link: "https://efluence.webflow.io/",
     },
     {
       id: 5,
