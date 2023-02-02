@@ -29,7 +29,7 @@ export const projectsData = [
     {
       id: 4,
       image: Efluence,
-      title: "Efluence site (developing phase",
+      title: "Efluence site (developing phase)",
       category: "web",
       link: "https://efluence.webflow.io/",
     },
