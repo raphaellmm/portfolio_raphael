@@ -3,6 +3,7 @@ import Indebouw from "../../assets/indebouw.png"
 import Xinstudio_logo from "../../assets/xinstudio_logo.png"
 import Efluence from "../../assets/efluence_site.jpg"
 import Nightscene from "../../assets/nightscene.png"
+import Prebeans from "../../assets/prebeans.jpg"
 
 export const projectsData = [
     {
@@ -14,7 +15,7 @@ export const projectsData = [
     },
     {
       id: 2,
-      image: Nightscene,
+      image: Prebeans,
       title: "Redesign Pre Beans",
       category: "design",
       link: "https://www.figma.com/proto/KS3t4m1KXauEtAcmrPyCcj/PreBeans?page-id=0%3A1&node-id=16%3A685&viewport=388%2C256%2C0.5&scaling=scale-down",
