@@ -14,27 +14,35 @@ export const projectsData = [
     },
     {
       id: 2,
+      image: Nightscene,
+      title: "Redesign Pre Beans",
+      category: "design",
+      link: "https://www.figma.com/proto/KS3t4m1KXauEtAcmrPyCcj/PreBeans?page-id=0%3A1&node-id=16%3A685&viewport=388%2C256%2C0.5&scaling=scale-down",
+    },
+    {
+      id: 3,
       image: Indebouw,
       title: "Logo In de Bouw",
       category: "design",
       link: "https://imgur.com/kaigsL8"
     },
     {
-      id: 3,
+      id: 4,
       image: Xinstudio_logo,
       title: "XinStudio logo",
       category: "design",
       link: "https://imgur.com/O6VxnZT",
     },
     {
-      id: 4,
+      id: 5,
       image: Efluence,
       title: "Efluence site (developing phase)",
       category: "web",
       link: "https://efluence.webflow.io/",
     },
+    
     {
-      id: 5,
+      id: 6,
       image: Nightscene,
       title: "Nightscene clothing",
       category: "design",
